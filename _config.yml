@@ -1,0 +1,28 @@
+name: lines
+favicon: null
+layout_spectrum: 0.8550565897021443
+typography_spectrum: 0.20729138725437224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06044307700358331
+  lightness: 0.47908327798359096
+  saturation: 0.24935879558324814
+  rhythmicContrast: 0.3941620886325836
+purpose: []
