@@ -1,7 +1,7 @@
 name: lines
 favicon: null
-layout_spectrum: 0.8550565897021443
-typography_spectrum: 0.20729138725437224
+layout_spectrum: 0.19017953984439373
+typography_spectrum: 0.9823693057987839
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.06044307700358331
-  lightness: 0.47908327798359096
-  saturation: 0.24935879558324814
-  rhythmicContrast: 0.3941620886325836
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.018259599804878235
+  lightness: 0.30897112912498415
+  saturation: 0.5531259439885616
+  rhythmicContrast: 0.7636857409961522
 purpose: []
